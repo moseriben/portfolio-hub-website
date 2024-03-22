@@ -1,0 +1,138 @@
+/* style.css */
+body {
+  font-size: 16px; 
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* Navbar */
+.navbar-nav {
+  margin-left: auto;
+}
+.navbar {
+  background-color: #343a40; 
+}
+
+.navbar-brand img {
+  max-height: 30px; 
+  border-radius: 50px;
+}
+
+.nav-link {
+  color: #fff; 
+}
+/* CSS for navigation bar */
+.navbar-nav li.nav-item a.nav-link {
+  color: #fff; 
+}
+
+/* Hover effect */
+.navbar-nav li.nav-item a.nav-link:hover {
+  color: #ffc107; /* Color on hover */
+}
+
+/* Home section */
+.bg-dark {
+  background-color: #343a40; 
+  color: #fff; 
+}
+
+.display-5,h2 {
+  color: #ffc107; 
+}
+.image img {
+  border-radius: 20px; 
+}
+
+/* About Me section */
+.bg-secondary {
+  background-color: #f8f9fa; 
+  border: 2px solid #fff; 
+  border-radius: 10px; 
+  padding: 20px; 
+}
+
+/* Education section */
+#education {
+  background-color: #343a40; 
+  color: #fff; 
+  border: 2px solid #fff; 
+  border-radius: 10px; 
+  padding: 20px; 
+}
+/* Work Experience section */
+#work-experience {
+  background-color: #f8f9fa; 
+  border: 2px solid #fff; 
+  border-radius: 10px; 
+  padding: 20px; 
+}
+
+/* Skills section */
+#skills {
+  background-color: #343a40; 
+  color: #fff; 
+  border: 2px solid #fff; 
+  border-radius: 
+}
+
+/* Portfolio section */
+.portfolio {
+  background-color: #f8f9fa; 
+  border: 2px solid #fff; 
+  border-radius: 
+}
+
+.card {
+  background-color: #343a40; 
+  color: #fff; 
+}
+
+.card-title {
+  color: #343a40; 
+}
+.card-text {
+  color: #343a40; 
+}
+
+/* Contact section */
+.bg-light {
+  background-color: #f8f9fa; 
+  color: #343a40; 
+  border: 2px solid #fff; 
+  border-radius: 10px; 
+  padding: 20px; 
+}
+
+/* Footer */
+.footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.footer p {
+  margin-bottom: 10px;
+}
+
+.social-icons {
+  margin-bottom: 20px;
+}
+
+.social-icons .list-inline-item a {
+  color: #ffc107;
+}
+
+.social-icons .list-inline-item a:hover {
+  color: #ad5c5c;
+}
+
+.contact-info a {
+  text-decoration: none;
+  color: #77c12d;
+}
+
+.contact-info a:hover {
+  color: #cccccc;
+}
